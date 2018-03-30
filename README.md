@@ -8,6 +8,7 @@ This repository contains the Python Scripts I have made for my position as a Sol
 5. extractCapacity2.py - Extracts capacity to main data worksheet
 6. addCapacityFactor.py - Calculate the Capacity Factor of a given generator
 7. createHistogram.py - Generate a histogram using values from a excel Workbook
-8. capacitySlope.py - Copy the capacity factors for each generator per year to another excel sheet. Find the slope of the line of best fit of the graph with the plotted capacity factors. 
+8. capacitySlope.py - Copy the capacity factors for each generator per year to another excel sheet. Find the slope of the line of best fit of the graph with the plotted capacity factors.
+10. netgenByStateAndTech.py - Extract total netgen for each generator and sort by state and AER Tech
 
 All data used for this project was downloaded from https://www.eia.gov
